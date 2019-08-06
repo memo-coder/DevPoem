@@ -4,6 +4,7 @@ Hallo
 Rot
 Gelb
 Grün
+Blau
 Lila
 
 das sind die Farben eines Regenbogens
